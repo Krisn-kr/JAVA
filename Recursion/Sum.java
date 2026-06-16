@@ -11,6 +11,7 @@ public class Sum {
         }
 
         sum+=i;
+        System.out.println(i);
 
         printSum(i+1,n,sum);
 
