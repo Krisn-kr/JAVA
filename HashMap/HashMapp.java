@@ -1,9 +1,10 @@
 package HashMap;
-import java.util.HashMap;
+import java.util.HashMap; // Keep importing the real Java HashMap
 
-public class HashMap {
+public class HashMapp {   // Your custom class name is fine here!
     public static void main(String[] args) {
 
+        // Use the official 'HashMap' here so you get all the built-in features
         HashMap<Integer, String> map = new HashMap<>();
 
         map.put(1, "Apple");
