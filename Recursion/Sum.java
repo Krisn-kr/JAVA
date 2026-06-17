@@ -21,7 +21,9 @@ public class Sum {
         // printSum(n);
     }
    public static void main(String[] arg){
+    System.out.println("Sum of N number : ");
     printSum(1,5,0);
+    
 
    }    
 }
