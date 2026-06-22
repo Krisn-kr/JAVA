@@ -19,6 +19,7 @@ public class Sum {
 
         // System.out.println(sum);
         // printSum(n);
+        // 
     }
    public static void main(String[] arg){
     System.out.println("Sum of N number : ");
