@@ -23,7 +23,7 @@ public class UpdateBit {
         int newNumber = newBitMask & n;
         System.out.println(newNumber);
 
-       }
-        
+       }    
+       sc.close();
     }
 }
