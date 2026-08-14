@@ -12,6 +12,8 @@ public class HashMapp {   // Your custom class name is fine here!
 
         System.out.println(map.get(1));
 
+        /// contians key 
+
         if (map.containsKey(2)) {
             System.out.println("Key exists");
         }
